@@ -1,0 +1,18 @@
+python ssr1.py \
+  --gpu_id=2 \
+  --data_dir ./movie \
+  --dataset movie_reviews \
+  --gradient_accumulation_steps=1 \
+  --model_name=SSR1 \
+  --lr=2e-05 \
+  --max_len=512 \
+  --alpha_rationle=0.2 \
+  --types=train \
+  --epochs=30 \
+  --batch_size=4 \
+  --class_num=2 \
+  --save_path=./output/ \
+  --alpha=0.01 \
+  --beta=0.01 \
+  --seed=3 \
+  --is_da=yes \
