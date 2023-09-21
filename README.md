@@ -1,4 +1,4 @@
-Official implementation "Boosting Selective Rationalization with Shortcuts Discovery".
+Official implementation of "Boosting Selective Rationalization with Shortcuts Discovery".
 
 ## Dataset
 
