@@ -1,4 +1,4 @@
-Official implementation of "Boosting Selective Rationalization with Shortcuts Discovery".
+Official implementation of ICLR2024 paper "Towards Faithful Explanations: Boosting Rationalization with Shortcuts Discovery".
 
 ## Dataset
 
